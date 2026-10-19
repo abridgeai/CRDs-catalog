@@ -25,6 +25,9 @@
               },
               "kind": {
                 "type": "string"
+              },
+              "name": {
+                "type": "string"
               }
             },
             "required": [
@@ -45,6 +48,9 @@
                 "type": "string"
               },
               "kind": {
+                "type": "string"
+              },
+              "name": {
                 "type": "string"
               }
             },
